@@ -2,7 +2,7 @@
 
 Minecraft Dedicated Server Announcer (Promoter)
 
-For some reason Minecraft Dedicated Servers do not promote themselfs locally, even if they are configured for offline-mode. Therefore I created this small script, which does the job of announcing a Dedicated Minecraft server in the LAN.
+For some reason Minecraft Dedicated Servers do not promote themselves locally, even if they are configured for offline-mode. Therefore I created this small script, which does the job of announcing a Dedicated Minecraft server in the LAN.
 
 
 ## Starting Minecraft Announcer
