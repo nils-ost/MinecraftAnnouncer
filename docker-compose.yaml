@@ -1,0 +1,10 @@
+services:
+  announcer:
+    image: nilsost/minecraftannouncer:latest
+    container_name: minecraft-announcer
+    restart: unless-stopped
+    tty: true
+    network_mode: "host"
+    environment:
+      SERVER_IP: ${IP}
+      SERVER_MOTD: ${MOTD}
